@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 
+=======
+User-agent: *
+Allow: /
+
+>>>>>>> faa972be94d2e354eda3a1f311e8fe5be17959d0
 Sitemap: https://remont-gomel.by/sitemap.xml
